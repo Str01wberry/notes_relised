@@ -1,0 +1,29 @@
+.QuickNote{
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 35px;
+    display: block;
+    background-color: rgba(0, 43, 51, 0);
+    border: solid black;
+    border-radius: 500px;
+    width: 500px;
+    height: 5vh;
+    padding-left: 20px;
+    margin: 1vh;
+}
+.Block{
+    display: flex;
+
+}
+.Button{
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 480px;
+    color: rgb(0, 0, 0);
+    width: 20px;
+    height: 20px;
+    border-radius: 100px;
+    border: solid 2px rgb(0, 0, 0);
+}

@@ -1,0 +1,17 @@
+.Footer{
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 5vh;
+    background-color: rgb(2, 28, 30);
+}
+.Contacts{
+    text-decoration: none;
+    color: rgba(163, 163, 163, 0.719);
+    transition: all 0.6s;
+}
+.Contacts:hover{
+    color: rgba(255, 255, 255, 0.719);
+}
